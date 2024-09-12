@@ -4,7 +4,7 @@
 
 }
 .con{
-    background-image: url(bgnet.jpg);
+    background-image: url("./images/bgnet.jpg");
     height: 80vh;
     width: 100%;
 }
