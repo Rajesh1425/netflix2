@@ -341,28 +341,28 @@ z-index: 10;
         height: 300px;
         width: 225px;
         border: 2px solid white;
-        background-image:url(./images/flim1.jpg);
+        background-image:url("./images/flim1.jpg");
         background-size: cover;
     }
     .im2{
         height: 300px;
         width: 225px;
         border: 2px solid white;
-        background-image:url(./images/flim3.jpg);
+        background-image:url("./images/flim3.jpg");
         background-size: cover;
     }
     .im3{
         height: 300px;
         width: 225px;
         border: 2px solid white;
-        background-image:url(./images/flim4.jpg);
+        background-image:url("./images/flim4.jpg");
         background-size: cover;
     }
     .im4{
         height: 300px;
         width: 225px;
         border: 2px solid white;
-        background-image:url(./images/flim2.jpg);
+        background-image:url("./images/flim2.jpg");
         background-size: cover;
     }
 /* Example Background Images */
